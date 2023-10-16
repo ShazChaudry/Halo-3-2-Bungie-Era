@@ -1,0 +1,8 @@
+data/
+venv/
+.DS_Store
+.idea/
+files_to_fix.txt
+fixed_files/
+credentials.py
+progress.py
